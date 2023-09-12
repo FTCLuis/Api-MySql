@@ -1,4 +1,4 @@
 # aula-api-mysql
 
 
-Guilherme Saar e Luis Felipe
+Guilherme Saar e Luis Felipe.
